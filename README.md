@@ -8,7 +8,7 @@ Uso interno — generadas por el equipo de soporte, sin garantía. Requieren Win
 en la mayoría de los casos, ejecutarse como administrador.
 
 Se descargan normalmente desde la pestaña **🛠️ Herramientas** del
-[Asistente de Soporte CONTPAQi](https://asistente-soporte-contpaqi.streamlit.app/).
+[Asistente de Soporte CONTPAQi](https://soporte-egco.streamlit.app/).
 
 ## Herramientas disponibles
 
