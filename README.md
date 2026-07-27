@@ -22,6 +22,5 @@ Se descargan normalmente desde la pestaña **🛠️ Herramientas** del
 | [PROYECTO Iconos System Tray](../../releases/tag/proyecto-iconos-system-tray) | PROYECTO Iconos System Tray, replica a los monitores externos los iconos del sistema |
 | [PROYECTO Monitores DisplayFusion](../../releases/tag/proyecto-monitores-displayfusion) | PROYECTO Monitores DisplayFusion, para reubicar las ventanas por los distintos monitores |
 | [PROYECTO Numpad MACRO](../../releases/tag/proyecto-numpad-macro) | PROYECTO Numpad MACRO, para usar como teclado macro el teclado numerico |
-| [PROYECTO Asistente De Soporte Web](../../releases/tag/proyecto-asistente-de-soporte-web) | PROYECTO Asistente De Soporte Web |
 | [PROYECTO Scripts Tools](../../releases/tag/proyecto-scripts-tools) | PROYECTO Scripts Tools |
 | [PROYECTO Transcripcion AUDIO VIDEO VOZ](../../releases/tag/proyecto-transcripcion-audio-video-voz) | PROYECTO Transcripcion AUDIO VIDEO VOZ |
